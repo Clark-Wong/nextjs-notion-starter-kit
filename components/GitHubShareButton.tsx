@@ -5,7 +5,7 @@ import styles from './styles.module.css'
 export const GitHubShareButton: React.FC = () => {
   return (
     <a
-      href='https://github.com/Clark-Wong/nextjs-notion-starter-kit'
+      href='https://nextjs-notion-starter-kit-rose-nine.vercel.app'
       target='_blank'
       rel='noopener noreferrer'
       className={styles.githubCorner}
